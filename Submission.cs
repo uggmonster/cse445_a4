@@ -15,9 +15,9 @@ namespace ConsoleApp1
     public class Submission
     {
         // Links to the files hosted on GitHub
-        public static string xmlURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/NationalParks.xml";
-        public static string xmlErrorURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/NationalParksErrors.xml";
-        public static string xsdURL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/NationalParks.xsd";
+        public static string xmlURL = "https://raw.githubusercontent.com/uggmonster/cse445_a4/main/NationalParks.xml";
+        public static string xmlErrorURL = "https://raw.githubusercontent.com/uggmonster/cse445_a4/main/NationalParksErrors.xml";
+        public static string xsdURL = "https://raw.githubusercontent.com/uggmonster/cse445_a4/main/NationalParks.xsd";
         public static void Main(string[] args)
         {
             // Check the good XML file (should print "No errors are found")
